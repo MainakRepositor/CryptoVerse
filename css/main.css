@@ -161,6 +161,18 @@ span.underline {
   word-spacing: 12px;
 }
 
+button
+{
+  background-color: yellow;
+  color:black;
+  padding:15px;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 23px;
+  width: 200px;
+  border-radius: 10px;
+}
+
 .hero__buttons {
   display: flex;
   flex-wrap: wrap;
